@@ -1,4 +1,4 @@
-##GA4 User Engagement Analytics Dashboard
+User Engagement Analytics Dashboard
 
 Exploring User Behavior Through Google Analytics 4 Data
 
