@@ -89,19 +89,6 @@ Combines KPI summaries, charts, and tabular data in a single interface using Str
 
 The live application provides an interactive way to explore the dashboard's available analytics.
 
-For a more informative GitHub presentation, screenshots can be added to the repository to demonstrate the dashboard overview, event distribution, and engagement trends.
-
-Example Markdown for adding a screenshot:
-
-```markdown
-![Dashboard Overview](screenshots/dashboard-1.png)
-
-![Engagement Analytics](screenshots/dashboard-2.png)
-
-![Event Distribution](screenshots/dashboard-3.png)
-```
-
-Place the actual screenshots in the `screenshots/` directory and update the filenames if necessary.
 
 ## Technology Stack
 
@@ -240,7 +227,7 @@ Before running the application, ensure you have:
 Replace the example repository URL with your actual GitHub repository URL.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ga4-dashboard.git
+git clone https://github.com/suhanimehta12/ga4-dashboard.git
 cd ga4-dashboard
 ```
 
